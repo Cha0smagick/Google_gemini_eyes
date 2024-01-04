@@ -1,2 +1,2 @@
-# Google_gmeini_eyes
+# Google_gemini_eyes
 ahi vamos
